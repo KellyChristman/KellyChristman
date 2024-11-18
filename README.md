@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Kelly! <br/><a href="https://www.linkedin.com/in/Josh-Christman//"> Aspiring IT Professional </a></h1>
 
-<!--
-**KellyChristman/KellyChristman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Experienced Systems Administrator with a focus on network security, virtualization, and home lab setups. Currently seeking new opportunities where I can leverage my technical expertise and hands-on project experience to enhance IT infrastructure and security. Explore my home lab projects and certifications below to see my practical skills in action.</p>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Home Lab Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>📜 Certifications:</h2>
+
+- [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=JXPSWNKV3V56VWWB)
+
+<h2>🤳 Connect with me:</h2>
+
+<p>Feel free to reach out to discuss my projects or potential opportunities:</p>
+
+[<img align="left" alt="Joshchristman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/osh-Christman/
