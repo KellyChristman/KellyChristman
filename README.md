@@ -8,11 +8,13 @@ I'm passionate about learning and ready to provide excellent technical support w
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/KellyChristman/ActiveDirectoryLab)</b>
-    - Built a AD Home lab environment using:
-    - **Virtual Box:** Optimized portable setup for field testing and on-the-go connectivity.
-    - **Windows Server 2019:** VM management with high availability and resource efficiency.
-    - **Windows 11:** Custom router configuration with network segmentation and secure connectivity.
-
+Built a AD Home lab environment using:
+    - **Active Directory**  
+    - **DHCP**  
+    - **DNS**  
+    - **PowerShell**  
+    - **VirtualBox**
+      
 <h2>📜 Certifications:</h2>
 
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=JXPSWNKV3V56VWWB)
@@ -21,6 +23,5 @@ I'm passionate about learning and ready to provide excellent technical support w
 
 <p>Feel free to reach out to discuss my projects or potential opportunities:</p>
 
-[<img align="left" alt="Joshchristman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/osh-Christman/
+
