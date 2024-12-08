@@ -4,6 +4,12 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+- <b>[Travel Router/Mobile Home Lab](https://github.com/JoshChristman/MobileHomeLab)</b>
+    - Built a fully mobile lab environment using:
+    - **Hardware:** Optimized portable setup for field testing and on-the-go connectivity.
+    - **Proxmox:** VM management with high availability and resource efficiency.
+    - **OpenWRT:** Custom router configuration with network segmentation and secure connectivity.
+    - **Linux Server & Docker:** Hosting services and containers for seamless lab scalability.
 
 <h2>📜 Certifications:</h2>
 
