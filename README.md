@@ -1,15 +1,17 @@
-<h1>Hi, I'm Kelly! <br/><a href="https://www.linkedin.com/in/Josh-Christman//"> Aspiring IT Professional </a></h1>
+<h1>Hi, I'm Kelly!
+   <p> Soon to be IT Professional </a></h1>
 
-<p>Experienced Systems Administrator with a focus on network security, virtualization, and home lab setups. Currently seeking new opportunities where I can leverage my technical expertise and hands-on project experience to enhance IT infrastructure and security. Explore my home lab projects and certifications below to see my practical skills in action.</p>
+<p>I'm an aspiring IT professional working toward a helpdesk position. While I'm new to the field, I've been actively building my skills through hands-on projects, such as creating homelabs to explore systems administration, network configuration, and troubleshooting.
+
+I'm passionate about learning and ready to provide excellent technical support while growing my knowledge in IT. Feel free to explore my projects and follow along as I develop my expertise!</p>
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
-- <b>[Travel Router/Mobile Home Lab](https://github.com/JoshChristman/MobileHomeLab)</b>
-    - Built a fully mobile lab environment using:
-    - **Hardware:** Optimized portable setup for field testing and on-the-go connectivity.
-    - **Proxmox:** VM management with high availability and resource efficiency.
-    - **OpenWRT:** Custom router configuration with network segmentation and secure connectivity.
-    - **Linux Server & Docker:** Hosting services and containers for seamless lab scalability.
+- <b>[Active Directory Home Lab](https://github.com/KellyChristman/ActiveDirectoryLab)</b>
+    - Built a AD Home lab environment using:
+    - **Virtual Box:** Optimized portable setup for field testing and on-the-go connectivity.
+    - **Windows Server 2019:** VM management with high availability and resource efficiency.
+    - **Windows 11:** Custom router configuration with network segmentation and secure connectivity.
 
 <h2>📜 Certifications:</h2>
 
