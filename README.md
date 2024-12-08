@@ -28,7 +28,7 @@
   <h2>📜 Certifications:</h2>
   <ul>
     <li>
-      <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=JXPSWNKV3V56VWWB" target="_blank">CompTIA Security+</a>
+      <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=92KDNMK4CQL6VLK9" target="_blank">CompTIA Security+</a>
     </li>
   </ul>
 
