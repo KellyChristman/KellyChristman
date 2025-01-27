@@ -27,9 +27,9 @@
 
   <h2>📜 Certifications:</h2>
   <ul>
-    <li>
-      <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=92KDNMK4CQL6VLK9" target="_blank">CompTIA Security+</a>
-    </li>
+    
+- [CompTIA Security+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [Google IT Support](https://coursera.org/share/b690b03e7030b858c3654fa3408dff25)
   </ul>
 
   <h2>🤳 Connect with Me:</h2>
